@@ -1,7 +1,7 @@
 hecatonchire@hecarch ~> uname -a
 
 
-    Linux hecarch 5.13.5-arch1-1 #1 SMP PREEMPT Sun, 25 Jul 2021 18:02:58 +0000 x86_64 GNU/Linux
+    Linux hecarch 5.16.10-arch1-1 #1 SMP PREEMPT Wed, 16 Feb 2022 19:35:18 +0000 x86_64 GNU/Linux
 
 
 
